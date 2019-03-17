@@ -1,4 +1,4 @@
-# CS234 Final Project
+# CS234 Final Project - Suffix Array for Maximal Unique Matches
 
 ## Personal Information ##
 
@@ -10,4 +10,8 @@
 
 **Research Interests:** Machine Learning, Computer Vision
 
-## Progress ##
+## Suffix Array ##
+
+## Reference ##
+
+https://www.youtube.com/playlist?list=PLDV1Zeh2NRsCQ_Educ7GCNs3mvzpXhHW5
