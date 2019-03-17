@@ -13,8 +13,15 @@
 ## Report ##
 
 ### Suffix Array ###
+Contain a table with 4 columns:
+- Position: the position of character in a sequence
+- Suffix: sorted suffix strings of a sequence
+- LCP: Longest commone prefix among suffix strings
+- isSeq2: boolean value whether the suffix string contain the second DNA sequence
 
-### Longest Common String ###
+
+
+### Maximal Unique Matches ###
 
 ## Reference ##
 
