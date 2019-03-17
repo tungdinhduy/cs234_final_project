@@ -36,6 +36,7 @@
 *.out
 *.app
 
-./suffix_array
-
 # End of https://www.gitignore.io/api/c++
+
+# Binary file
+suffix_array
