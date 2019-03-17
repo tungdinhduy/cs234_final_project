@@ -36,4 +36,6 @@
 *.out
 *.app
 
+./suffix_array
+
 # End of https://www.gitignore.io/api/c++
