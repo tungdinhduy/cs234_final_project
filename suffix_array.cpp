@@ -194,7 +194,7 @@ int main()
     sa.printSuffixArray();
     pair<int, set<int>> lscpos = sa.getAllLcsPos();
 
-    cout << "Maxial Unique Match:\n";
+    cout << "Maximal Unique Matches:\n";
     cout << "Length = " << lscpos.first << "\n";
     for (set<int>::iterator it = lscpos.second.begin(); it != lscpos.second.end(); ++it)
     {
